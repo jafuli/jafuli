@@ -1,9 +1,6 @@
 ### Hello 👋  My name is Itamar, looking for my first position in the Software development world!!
 
-As Kanye West said:
 
-> We're living the future so
-> the present is our past.
 
 <!--
 **jafuli/jafuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
